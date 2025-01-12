@@ -1,6 +1,9 @@
-# Beamlak's Portfolio
+# Elizabeth Genetu Taye
 
- Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! our easily customisable, user friendly website is designed to cater to developers and freelancers a like.
+Addis Coder 2023 Alumnus
+Grade: 10th
+School: Lemlem School
+
 
 ---
 

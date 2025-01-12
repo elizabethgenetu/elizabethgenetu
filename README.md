@@ -1,10 +1,5 @@
-# Elizabeth Genetu Taye
+# Elizabeth's Portfolio
 
-Addis Coder 2023 Alumnus
-Grade: 10th
-School: Lemlem School
-
+ Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! our easily customisable, user friendly website is designed to cater to developers and freelancers a like.
 
 ---
-
-

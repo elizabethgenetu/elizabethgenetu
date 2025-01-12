@@ -1,8 +1,9 @@
+
 export const headerData = {
-    name: 'Elizabeth Genetu',
+    name: 'BEAMLAK TESFAHUN ',
     title: "Hello! I am",
-    description: "Hello! I am Elizabeth Genetu, a grade 10 student at Lemlem School, Addis Ababa. I am an aspiring junior computer engineer and an Addis Coder 2023 alumna. I am passionate about mathematics, algorithms, and exploring new technologies to solve challenging problems. My dream is to become a quantum engineer.",
+    desciption: "Hello! I am Beamlak Tesfahun, Cloud Practitioner at Nedamco Africa . A quick learner with a self-learning attitude. I love to learn cloud computing, algorithms and explore new technologies to Problem Solving. ",
     image: 'https://i.ibb.co/z4T8Vf0/1709796695324.jpg',
     imagebw: 'https://i.ibb.co/z4T8Vf0/1709796695324.jpg',
     resumePdf: 'https://drive.google.com/file/d/1xMW663eAx__J0FY-xNnIQH6J1Ne2wqTm/view?usp=sharing'
-}
+    }

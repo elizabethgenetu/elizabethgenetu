@@ -9,7 +9,7 @@ export const blogData = [
     },
    {
         id: 2,
-        title: 'With Big Bro, Zadig Tesfahun',
+        title: 'With Big Bro, Zadig Genetu',
         description: 'You are my life, sweet kisses from your little',
         date: 'Sep 17, 2020',
         image: 'https://i.ibb.co/YLkwB1m/bamiandbro.jpg',

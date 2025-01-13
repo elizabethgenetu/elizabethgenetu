@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'tesfahun.beamlak@gmail.com',
+    email: 'Genetu.Elizaebeth@gmail.com',
     phone: '+25121625558',
     address: 'Kazanchis, Addis Ababa, Ethiopia ',
 

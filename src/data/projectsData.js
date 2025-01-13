@@ -12,7 +12,7 @@ export const projectsData = [
         projectName: 'Competitive Programming',
         projectDesc: 'Competitive coding is all about finding the best fit solution in the least amount of time. Python comes in as the best programming language as it cuts short the time spent writing a code as compared to other conventional languages like Java, C, and C++.',
         tags: ['Python', 'Data Structure', 'Algorithm'],
-        code: 'https://github.com/BeamlakTesfahun/Competitive-Programming',
+        code: 'https://github.com/ElizaebethGenetu/Competitive-Programming',
         demo: '',
         image: seven
     },
@@ -30,7 +30,7 @@ export const projectsData = [
         projectName: 'Python Track',
         projectDesc: 'This project about cloud gallery of images using firebase.',
         tags: ['python', 'Data Structure'],
-        code: 'https://github.com/BeamlakTesfahun/Python-Track',
+        code: 'https://github.com/ElizaebethGenetu/Python-Track',
         demo: '',
         image: five
     },

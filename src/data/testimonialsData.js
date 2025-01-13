@@ -11,7 +11,7 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Tesfahun Sahilu',
+        name: 'Genetu Taye',
         title: 'Father',
         text: "The happiest moment of my life was probably when my daughter was born, Go on, take on this whole world/ but to me you know you'll always be/ my little girl.",
         image: boy3
@@ -26,7 +26,7 @@ export const testimonialsData = [
    
     {
         id: 3,
-        name: 'Zadig Tesfahun',
+        name: 'Zadig Genetu',
         title: 'Big bro',
         text: "I hope every brother in the world can get a supportive sister like you.!",
         image: boy2

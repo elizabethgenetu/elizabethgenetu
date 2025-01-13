@@ -1,8 +1,7 @@
-
 export const headerData = {
-    name: 'Elizaebeth Genetu ',
+    name: 'Elizabeth Genetu',
     title: "Hello! I am",
-    desciption: "Hello! I am Elizaebeth Genetu, Cloud Practitioner at Nedamco Africa . A quick learner with a self-learning attitude.  I love to learn cloud computing, algorithms and explore new technologies to Problem Solving. ",
+    desciption: "Hello! I am Elizabeth Genetu, an Addis-Coder 2023 Alumnus and aspiring computer engineer. A quick learner with a self-learning attitude. I love math, science, and exploring new technologies to solve problems.",
     image: 'https://i.ibb.co/z4T8Vf0/1709796695324.jpg',
     imagebw: 'https://i.ibb.co/z4T8Vf0/1709796695324.jpg',
     resumePdf: 'https://drive.google.com/file/d/1xMW663eAx__J0FY-xNnIQH6J1Ne2wqTm/view?usp=sharing'

@@ -1,17 +1,17 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'A2SV',
-        jobtitle: 'Machine Learning Engineer',
-        startYear: 'Jun 2022',
+        company: 'Addis Coder',
+        jobtitle: 'Aspiring Computer Engineering Student',
+        startYear: 'Jun 2023',
         endYear: 'Present'
     },
     {
         id: 2,
-        company: 'St.Paul Hospital Medical College',
-        jobtitle: 'Biomedical Engineering Internship',
-        startYear: 'Feb 2022',
-        endYear: 'Jun 2022'
+        company: 'Lemlem School',
+        jobtitle: 'STEM Club leader',
+        startYear: 'Sept 2024',
+        endYear: 'Present'
     },
     {
         id: 3,

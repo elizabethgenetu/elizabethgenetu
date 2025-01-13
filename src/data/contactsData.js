@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'Genetu.Elizaebeth@gmail.com',
+    email: 'Elizabeth.genetu@gmail.com',
     phone: '+25121625558',
-    address: 'Kazanchis, Addis Ababa, Ethiopia ',
+    address: 'Yeka, Addis Ababa, Ethiopia ',
 
     sheetAPI: ''
 }

@@ -1,18 +1,19 @@
 export const blogData = [
     {
-        id: 3,
-        title: 'Lemlem Academic Excellence Recognition',
-        description: "Recognition poster awarded for achieving 1st place among all Grade 10 sections at Lemlem School.",
-        date: 'May 2025',
-        image: 'https://i.ibb.co/MQPQHGy/Lemlem-2017-rank-final-2.jpg',
-        url: ''
-    },
-    {
         id: 2,
         title: 'First Addis Coder 2023 Batch Graduation',
         description: 'Celebrating the first graduation of the Addis Coder 2023 batch at Etege Menen Boarding School.',
         date: 'August 2023',
         image: 'https://i.ibb.co/vCSFMY5D/addis-coder-handing.jpg',
+        url: ''
+    },
+    
+    {
+        id: 3,
+        title: 'Lemlem Academic Excellence Recognition',
+        description: "Recognition poster awarded for achieving 1st place among all Grade 10 sections at Lemlem School.",
+        date: 'May 2025',
+        image: 'https://i.ibb.co/MQPQHGy/Lemlem-2017-rank-final-2.jpg',
         url: ''
     },
     {

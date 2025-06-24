@@ -148,7 +148,7 @@ function Landing() {
                             strings={[
                                 'Incoming YYAS African Scholar 2025',
                                 'AddisCoder 2023, Almunus',
-                                'Grade 10th Hiighschooler',
+                                'Grade 10th Highschooler',
                             ]}
                             typeSpeed={40}
                             backSpeed={50}

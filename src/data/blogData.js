@@ -1,10 +1,10 @@
 export const blogData = [
     {
-        id: 1,
+        id: 3,
         title: 'Lemlem Academic Excellence Recognition',
         description: "Recognition poster awarded for achieving 1st place among all Grade 10 sections at Lemlem School.",
         date: 'May 2025',
-        image: 'https://ibb.co/0VM6g6Nk',
+        image: 'https://i.ibb.co/MQPQHGy/Lemlem-2017-rank-final-2.jpg',
         url: ''
     },
     {
@@ -16,7 +16,7 @@ export const blogData = [
         url: ''
     },
     {
-        id: 3,
+        id: 1,
         title: 'Regional School Youth Summit, Bahir Dar',
         description: 'Participating in the Regional School Youth Summit in Bahir Dar, 2022.',
         date: '2022',

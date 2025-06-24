@@ -6,5 +6,3 @@ export const headerData = {
     imagebw: 'https://i.ibb.co/BHSMcyWc/gggh.jpg',
     resumePdf: 'https://drive.google.com/file/d/1Qa2YOlPNGLgnFhZqyZmNrvXJinDKU1SA/view?usp=sharing'
 }
-
-<img src="https://i.ibb.co/BHSMcyWc/gggh.jpg" alt="gggh" border="0">

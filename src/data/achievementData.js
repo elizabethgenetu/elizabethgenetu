@@ -10,12 +10,12 @@ export const achievementData = {
             image : ''
         },
         {
-            id : 2,
-            title : 'Grade 8 Top Scorer',
-            details : '',
-            date : '2023',
-            field : '',
-            image : ''
-        }
+            id: 2,
+            title: 'Incoming Yale Young African Scholar',
+            details: 'Selected for YYAS program—seminars & workshops in science and global issues',
+            date: 'August 2025',
+            field: 'STEM & Leadership',
+            image: ''
+          },
     ]
 }

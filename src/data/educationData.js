@@ -3,21 +3,21 @@ export const educationData = [
         id: 1,
         institution: 'Lemlem School',
         course: 'High School Diploma',
-        startYear: '2018',
+        startYear: '2024',
         endYear: 'Present'
     },
     {
         id: 2,
         institution: 'Hidase Secondary School',
         course: 'High School Diploma',
-        startYear: '2014',
-        endYear: '2018'
+        startYear: '2022',
+        endYear: '2023'
     },
     {
         id: 3,
-        institution: 'Dangila Academy',
+        institution: 'Amen Elementary School',
         course: 'Primary School Diploma',
-        startYear: '2006',
-        endYear: '2014'
+        startYear: '2015',
+        endYear: '2022'
     },
 ]

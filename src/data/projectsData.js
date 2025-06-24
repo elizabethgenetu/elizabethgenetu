@@ -9,31 +9,23 @@ import seven from '../assets/svg/projects/seven.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Competitive Programming',
-        projectDesc: 'Competitive coding is all about finding the best fit solution in the least amount of time. Python comes in as the best programming language as it cuts short the time spent writing a code as compared to other conventional languages like Java, C, and C++.',
+        projectName: 'AddisCoder X Programming',
+        projectDesc: 'AddisCoder X is a 3-week online computer science course of the 2023 AddisCoder Almunus, designed to share our fellow high school students to the exciting world of programming and problem-solving we learned from AddisCoder. ',
         tags: ['Python', 'Data Structure', 'Algorithm'],
-        code: 'https://github.com/ElizaebethGenetu/Competitive-Programming',
+        code: 'https://github.com/elizabethgenetu/AddisCoder_X',
         demo: '',
         image: seven
     },
     {
         id: 2,
-        projectName: 'Branagram',
-        projectDesc: 'This project is about creating Social media helps people strengthen their relationships through your brana.',
-        tags: ['Django', 'Bootstrap4'],
-        code: 'https://github.com/abrahamgenetu/branagram',
-        demo: 'https://branagram.pythonanywhere.app/',
+        projectName: 'Portfolio',
+        projectDesc: 'This project is about creating personal portfolio to share my expereince and academic informations',
+        tags: ['React', 'Javascript'],
+        code: 'https://github.com/elizabethgenetu/elizabethgenetu',
+        demo: 'https://elizabethgenetu.netlify.app/',
         image: four
     },
-    {
-        id: 3,
-        projectName: 'Python Track',
-        projectDesc: 'This project about cloud gallery of images using firebase.',
-        tags: ['python', 'Data Structure'],
-        code: 'https://github.com/ElizaebethGenetu/Python-Track',
-        demo: '',
-        image: five
-    },
+   
     // {
     //     id: 4,
     //     projectName: 'Android Patient Tracker',

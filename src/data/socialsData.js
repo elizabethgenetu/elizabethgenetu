@@ -5,5 +5,5 @@ export const socialsData = {
     twitter: 'https://twitter.com/ElizaebethGenetu',
     medium: 'https://medium.com/@ElizaebethGenetu-bd',
     stackOverflow: 'https://stackoverflow.com/users/Elizaebeth',
-    mail: 'Elizabeth.genetu@gmail.com',
+    mail: 'info.elsabetgenetu@gmail.com',
 }
